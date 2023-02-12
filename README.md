@@ -9,7 +9,7 @@
 
 <br />
   
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
   
 <h3 align="center">About me! 😇</h3>
   
@@ -17,10 +17,14 @@
 - :muscle: My most notable strengths are being a right-minded team player, an exemplary communicator and being an up-to-scratch problem solver.
 - :speech_balloon: Whenever I have spare time - I design, develop and release iOS apps onto the App Store as a hobby.
 - 🏆 My sole app, “The Simple Calculator”, has been downloaded in 110+ different countries and has trended in 25+ countries. Check it out, here: <a href="https://apps.apple.com/us/app/the-simple-calculator/id1525169566"></a> 
+  
+</tr></tr></table> 
 
-</td><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
   
 <h3 align="center">My repositories! 💻</h2>
+  
+<br />
   
 <div align="center">
   <a href="https://github.com/skottydeveloper/C"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=C&theme=tokyonight" /></a>
@@ -30,11 +34,15 @@
   <a href="https://github.com/skottydeveloper/Python"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Python&theme=tokyonight" /></a>
   <a href="https://github.com/skottydeveloper/Swift"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Swift&theme=tokyonight" /></a>
 </div>
+  
+<br />
 
 </tr></tr></table> 
   
 <br />
 
+<table><tr><td valign="top" width="100%">
+  
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=skottydeveloper&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=skottydeveloper&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php,pug,makefile">
