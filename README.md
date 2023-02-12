@@ -18,6 +18,8 @@
 - :speech_balloon: Whenever I have spare time - I design, develop and release iOS apps onto the App Store as a hobby.
 - 🏆 My sole app, “The Simple Calculator”, has been downloaded in 110+ different countries and has trended in 25+ countries. Check it out, here: <a href="https://apps.apple.com/us/app/the-simple-calculator/id1525169566"></a> 
 
+<br />
+  
 <table><tr><td valign="top" width="50%">
   
 <p align="center">
