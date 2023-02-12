@@ -21,16 +21,14 @@
 </td><td valign="top" width="50%">
   
 <h3 align="center">My repositories! 💻</h2>
-
-<br />
   
 <div align="center">
-  <a href="https://github.com/skottydeveloper/C"><img width="175" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=C&theme=tokyonight" /></a>
-  <a href="https://github.com/skottydeveloper/CPP"><img width="175" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=CPP&theme=tokyonight" /></a>
-  <a href="https://github.com/skottydeveloper/Java"><img width="175" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Java&theme=tokyonight" /></a>
-  <a href="https://github.com/skottydeveloper/Javascript"><img width="175" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Javascript&theme=tokyonight" /></a>
-  <a href="https://github.com/skottydeveloper/Python"><img width="175" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Python&theme=tokyonight" /></a>
-  <a href="https://github.com/skottydeveloper/Swift"><img width="175" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Swift&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/C"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=C&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/CPP"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=CPP&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/Java"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Java&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/Javascript"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Javascript&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/Python"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Python&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/Swift"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Swift&theme=tokyonight" /></a>
 </div>
 
 </tr></tr></table> 
