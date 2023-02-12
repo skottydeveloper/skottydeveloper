@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Andreas!👋🏼👨🏻‍💻</h1>
 
 <div align="center">
-<a href="https://skottydeveloper.com/"><img src="https://img.shields.io/badge/PERSONAL WEBSITE-00FF00?style=for-the-badge&logoColor=white" alt="Personal Website" /></a>&nbsp;
+<a href="https://skottydeveloper.com/"><img src="https://img.shields.io/badge/PERSONAL WEBSITE-00D100?style=for-the-badge&logoColor=white" alt="Personal Website" /></a>&nbsp;
 <a href="https://instagram.com/skottydeveloper"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://twitter.com/skottydeveloper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
