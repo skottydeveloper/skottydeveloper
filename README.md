@@ -74,6 +74,12 @@
 <img src="https://img.shields.io/badge/-Delphi-EE1F35?&style=for-the-badge&logo=Delphi&logoColor=white" />
 <img src="https://img.shields.io/badge/-Visual Basic-0D98BA?&style=for-the-badge&logo=Visual+Basic&logoColor=white" />
 <img src="https://img.shields.io/badge/-Visual Studio-222222?&style=for-the-badge&logo=Visual+Studio&logoColor=white" />
+  
+<h4 align="left"> ⚙️ Windows Server Development</h4>
+<img src="https://img.shields.io/badge/-C＃-239120?&style=for-the-badge&logo=C+Sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/-.NET-512BD4?&style=for-the-badge&logo=.NET&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white" />
 
 <h4 align="left"> 🥫 Source Control</h4>
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
@@ -82,7 +88,6 @@
 
 <h4 align="left"> Miscellaneous</h4>
 <img src="https://img.shields.io/badge/-C-222222?&style=for-the-badge&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/-C＃-239120?&style=for-the-badge&logo=C+Sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
  
