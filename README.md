@@ -29,7 +29,6 @@
 <div align="center">
   <a href="https://github.com/skottydeveloper/C"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=C&theme=tokyonight" /></a>
   <a href="https://github.com/skottydeveloper/CPP"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=CPP&theme=tokyonight" /></a>
-  <a href="https://github.com/skottydeveloper/C-Sharp"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=C-Sharp&theme=tokyonight" /></a>
   <a href="https://github.com/skottydeveloper/Java"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Java&theme=tokyonight" /></a>
   <a href="https://github.com/skottydeveloper/Javascript"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Javascript&theme=tokyonight" /></a>
   <a href="https://github.com/skottydeveloper/Python"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Python&theme=tokyonight" /></a>
