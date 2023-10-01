@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://skottydeveloper.com/"><img src="https://img.shields.io/badge/PERSONAL WEBSITE-00D100?style=for-the-badge&logoColor=white" alt="Personal Website" /></a>&nbsp;
   <a href="https://instagram.com/skottydeveloper"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="https://linkedin.com/in/andreas-skotadis/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.threads.net/@skottydeveloper"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" /></a>&nbsp;
+  <a href="https://linkedin.com/in/andreas-skotadis/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </div>
 
 <br />
