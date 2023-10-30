@@ -13,10 +13,10 @@
   
 <h3 align="center">About me! 😇</h3>
   
-- :raising_hand: I’m a current fourth-year (penultimate year) Software Engineering student at University of Technology Sydney, and I’m striving to be a software engineer. 
+- :raising_hand: I’m a current fourth-year (penultimate year) Software Engineering student at University of Technology Sydney, and I’m striving to be a good software engineer. 
 - :muscle: My most notable strengths are being a right-minded team player, an exemplary communicator and being an up-to-scratch problem solver.
 - :speech_balloon: Whenever I have spare time - I design, develop and release iOS apps onto the App Store as a hobby.
-- 🏆 My sole app, “The Simple Calculator”, has been downloaded in 120+ different countries and has trended in 25+ countries. Check it out,<a href="https://apps.apple.com/us/app/the-simple-calculator/id/1525169566"> here.</a> 
+- 🏆 Outside of the classroom and office, I've ventured into the field of app development. My iOS apps, including the widely recognised "The Simple Calculator" and the trending "QuickList", have garnered global attention with downloads spanning across 120+ countries.
   
 </tr></tr></table> 
 
