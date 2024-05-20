@@ -16,7 +16,7 @@
 - :raising_hand: I’m a current final year Software Engineering student at University of Technology Sydney, and I’m striving to be a good software engineer. 
 - :muscle: My most notable strengths are being a right-minded team player, an exemplary communicator and being an up-to-scratch problem solver.
 - :speech_balloon: Whenever I have spare time - I design, develop and release iOS apps onto the App Store as a hobby.
-- 🏆 My iOS apps, including the widely recognised "The Simple Calculator", quickly-growing "Simple Currency Converter" and the trending "QuickList", have garnered global attention with downloads spanning across 125+ countries. View my apps here: https://apps.apple.com/developer/andreas-skotadis/id1525168367
+- 🏆 My iOS apps, including the widely recognised "The Simple Calculator", the quickly-growing "Simple Currency Converter" and the trending "QuickList", have garnered global attention with downloads spanning across 125+ countries. View my apps here: https://apps.apple.com/developer/andreas-skotadis/id1525168367
   
 </tr></tr></table> 
 
