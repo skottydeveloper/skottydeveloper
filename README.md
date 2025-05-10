@@ -13,10 +13,10 @@
   
 <h3 align="center">About me! 😇</h3>
   
-- :raising_hand: I’m a Software Engineering gradute from University of Technology Sydney, and I’m striving to be a good software engineer. 
-- :muscle: My most notable strengths are being a right-minded team player, an exemplary communicator and being an up-to-scratch problem solver.
-- :speech_balloon: Whenever I have spare time - I design, develop and release iOS apps onto the App Store as a hobby.
-- 🏆 My iOS apps, including the widely recognised "The Simple Calculator", the quickly-growing "Simple Currency Converter" and the trending "QuickList", have garnered global attention with downloads spanning across 125+ countries. View my apps here: https://apps.apple.com/developer/andreas-skotadis/id1525168367
+- :raising_hand: I’m a Software Engineering graduate from UTS, currently pivoting into IT support and infrastructure with a strong interest in cloud technologies and cybersecurity.
+- :hammer_and_wrench: With hands-on experience gained through internships at Infrasoft, Alexys International, and Jenkins Engineering Defence Systems, I’ve developed core skills in troubleshooting, end-user support, Windows/Mac environments, and Agile team collaboration.
+- :speech_balloon: Currently pursuing Microsoft certifications (AZ-900, MS-900, SC-900) to build my foundation in cloud and enterprise environments.
+- :ballot_box_with_check: Whether solving tech issues, automating a task, or improving systems, I enjoy being part of the solution. I’m eager to contribute to a team where I can grow long-term across support, systems admin, and cloud engineering.
   
 </tr></tr></table> 
 
