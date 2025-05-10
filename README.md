@@ -9,18 +9,14 @@
 
 <br />
   
-<table><tr><td valign="top">
-  
 <h3 align="center">😇 About me!</h3>
   
 - :raising_hand: I’m a Software Engineering graduate from UTS, currently pivoting into IT support and infrastructure with a strong interest in cloud technologies and cybersecurity.
 - :hammer_and_wrench: With hands-on experience gained through internships at Infrasoft, Alexys International, Jenkins Engineering Defence Systems and Dosec Design/EnviroNode IoT Solutions, I’ve developed core skills in troubleshooting, end-user support, Windows/Mac environments, and Agile team collaboration.
 - :speech_balloon: Currently pursuing Microsoft certifications (AZ-900, MS-900, SC-900) to build my foundation in cloud and enterprise environments.
 - :ballot_box_with_check: Whether solving tech issues, automating a task, or improving systems, I enjoy being part of the solution. I’m eager to contribute to a team where I can grow long-term across support, systems admin, and cloud engineering.
-  
-</td></tr></table> 
 
-<table><tr><td valign="top">
+<br />
   
 <h3 align="center">📦 My repositories!</h3>
   
@@ -34,13 +30,7 @@
   <a href="https://github.com/skottydeveloper/Javascript"><img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=Javascript&theme=tokyonight" /></a>
 </div>
   
-<br />
-
-</td></tr></table> 
-  
-<br />
-
-<table align="center" width="100%"><tr><td valign="top">
+<br /><br />
   
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
@@ -82,7 +72,5 @@
   <img src="https://img.shields.io/badge/-Shell-222222?&style=for-the-badge&logo=shell_script&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
-  
-</td></tr></table> 
-  
+    
 <br />
