@@ -23,7 +23,8 @@
 <br />
   
 <div align="center">
-  <a href="https://github.com/skottydeveloper/coding-projects"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=coding-projects&theme=tokyonight&cache_bust=1" /></a>
+  <a href="https://github.com/skottydeveloper/coding-projects"><img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=coding-projects&theme=tokyonight&cache_bust=1" /></a>
+  <a href="https://github.com/skottydeveloper/it-fundamentals-lab"><img width="265" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=it-fundamentals-lab&theme=tokyonight&cache_bust=1" /></a>
 </div>
   
 <br /><br />
