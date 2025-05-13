@@ -23,7 +23,7 @@
 <br />
   
 <div align="center">
-  <a href="https://github.com/skottydeveloper/coding-projects"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=coding-projects1&theme=tokyonight" /></a>
+  <a href="https://github.com/skottydeveloper/coding-projects"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=skottydeveloper&repo=coding-projects&theme=tokyonight" /></a>
 </div>
   
 <br /><br />
