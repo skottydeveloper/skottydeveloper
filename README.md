@@ -11,10 +11,10 @@
   
 <h3 align="center">😇 About me!</h3>
   
-- :raising_hand: I’m a Software Engineering graduate from UTS, currently pivoting into IT support and infrastructure with a strong interest in cloud technologies and cybersecurity.
-- :hammer_and_wrench: With hands-on experience gained through internships at Infrasoft, Alexys International, Jenkins Engineering Defence Systems and Dosec Design/EnviroNode IoT Solutions, I’ve developed core skills in troubleshooting, end-user support, Windows/Mac environments, and Agile team collaboration.
-- :speech_balloon: Currently pursuing Microsoft certifications (AZ-900, MS-900, SC-900) to build my foundation in cloud and enterprise environments.
-- :ballot_box_with_check: Whether solving tech issues, automating a task, or improving systems, I enjoy being part of the solution. I’m eager to contribute to a team where I can grow long-term across support, systems admin, and cloud engineering.
+- :raising_hand: I’m a Software Engineering graduate from UTS, passionate about leveraging technology to solve real-world business challenges, with particular interests in cloud technologies, IT consulting, and cybersecurity.
+- :hammer_and_wrench: With hands-on experience gained through internships at Infrasoft, Alexys International, Jenkins Engineering Defence Systems and Dosec Design/EnviroNode IoT Solutions, I've developed core skills in agile methodologies, software troubleshooting, cross-platform systems (Windows, macOS, Linux), and technical collaboration within dynamic teams.
+- :speech_balloon: I'm currently advancing my knowledge through Microsoft certifications (AZ-900, MS-900, SC-900), focusing on cloud services, security, and enterprise solutions to expand my capability in IT consulting and cloud environments.
+- :ballot_box_with_check: I thrive in roles that involve problem-solving, teamwork, and continuous learning. I'm eager to join an innovative team, contributing my technical and analytical skills while growing into roles that bridge technology and business solutions.
 
 <br />
   
