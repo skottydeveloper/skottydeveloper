@@ -38,6 +38,16 @@
   <img src="https://img.shields.io/badge/-WSL-4D4D4D?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
+<h4 align="center">🗣️ Programming Languages</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Java-D30000?&style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=C&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF" />
+</div>
+
 <h4 align="center">📦 Platforms & Admin Tools</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
