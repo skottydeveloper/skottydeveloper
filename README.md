@@ -12,7 +12,7 @@
 <h3 align="center">😇 About me!</h3>
   
 - :raising_hand: I’m a UTS Software Engineering (Honours) graduate building a career in IT and technical support within media & communications.
-- :studio_microphone: I currently support a **live broadcast environment** in community radio — first-line troubleshooting for on-air incidents, playout systems and workstations, studio hardware (mics/headphones/audio panels), and end-user devices (Windows upgrades, compatibility issues), with some scripting/automation and audio preparation in Adobe Audition.
+- :studio_microphone: I currently support a **live broadcast environment** in community radio - first-line troubleshooting for on-air incidents, playout systems and workstations, studio hardware (mics/headphones/audio panels), and end-user devices (Windows upgrades, compatibility issues), with some scripting/automation and audio preparation in Adobe Audition.
 - :hammer_and_wrench: With hands-on experience gained through internships at Infrasoft, Alexys International, Jenkins Engineering Defence Systems and Dosec Design/EnviroNode IoT Solutions - I've developed core skills in agile methodologies, software troubleshooting, cross-platform systems (Windows, macOS, Linux) and technical collaboration within dynamic teams.
 - :speech_balloon: I enjoy service-focused roles where clear communication, calm incident response and continuous improvement help technology support people, workflows and audiences.
 
