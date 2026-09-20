@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hi there, I'm Andreas!👋🏼👨🏻‍💻</h1>
 
-<div align="center">
-  <a href="https://skottydeveloper.com/"><img src="https://img.shields.io/badge/PERSONAL WEBSITE-00D100?style=for-the-badge&logoColor=white" alt="Personal Website" /></a>&nbsp;
-</div>
-
 <br />
   
 <h3 align="center">😇 About me!</h3>
